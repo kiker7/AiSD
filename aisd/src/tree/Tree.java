@@ -31,5 +31,8 @@ public class Tree {
 	private void preOrder(Node localRoot){
 		
 	}
+	private void inOrder(Node localRoot){
+		
+	}
 
 }
