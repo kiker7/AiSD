@@ -28,5 +28,8 @@ public class Tree {
 	public void traverse(int traverseType){
 		
 	}
+	private void preOrder(Node localRoot){
+		
+	}
 
 }
