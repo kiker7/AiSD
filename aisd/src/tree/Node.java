@@ -5,4 +5,5 @@ public class Node {
 	public int data;
 	public double dData;
 	public Node leftChild;
+	public Node rightChild;
 }
