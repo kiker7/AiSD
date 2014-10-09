@@ -20,5 +20,9 @@ public class Tree {
 		}
 		return current;
 	}
+	
+	public void insert(int id, double dd){
+		
+	}
 
 }
