@@ -24,5 +24,9 @@ public class Tree {
 	public void insert(int id, double dd){
 		
 	}
+	
+	public void traverse(int traverseType){
+		
+	}
 
 }
