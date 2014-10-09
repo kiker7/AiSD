@@ -8,4 +8,9 @@ public class Tree {
 		root = null;
 	}
 	
+	public Node find(int key){
+		Node current = root;
+		return current;
+	}
+	
 }
