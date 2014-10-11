@@ -34,5 +34,9 @@ public class Tree {
 	private void inOrder(Node localRoot){
 		
 	}
+	
+	private void met(){
+		
+	}
 
 }
