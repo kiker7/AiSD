@@ -18,6 +18,11 @@ public class Node {
 	public Node leftChild;
 	public Node rightChild;
 	
+	public Node(int id, double dd){
+		iData = id;
+		dData = dd;
+	}
+	
 	public void displayNode(){
 		System.out.print("{ ");
 		System.out.print(iData);
