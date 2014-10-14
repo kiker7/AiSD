@@ -18,7 +18,7 @@ public class TestTree {
 		while (true) {
 			System.out.print("Wpisz litere by wykonaæ polecenie, ");
 			System.out
-					.print("(i) - wstaw, (f) - wyszukaj, (d) - usuñ lub (t) - trawersowanie: ");
+					.print("(i) - wstaw, (f) - wyszukaj, (d) - usuñ, (s) - wyœwietl lub (t) - trawersowanie: ");
 			int choice = getChar();
 			switch (choice) {
 			case 's':
