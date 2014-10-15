@@ -146,7 +146,7 @@ public class Tree {
 		// ZNALEZIONO WEZEL DO USUNIECIA
 		// JESLI NIE MA POTOMKOW, USUWAMY WEZEL
 		if (current.leftChild == null && current.rightChild == null) {
-			if (current == null)
+			if (current == root)
 				root = null;
 			else if (isLeftChild)
 				parent.leftChild = null;
